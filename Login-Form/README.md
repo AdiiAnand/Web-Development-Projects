@@ -1,6 +1,4 @@
-# Login Form
-## [Watch it on youtube](https://youtu.be/Rkt3rWgi_zk)
-### Login form
+# Login form
 
 - Login Form Using HTML & CSS
 - Contains a beautiful background image.
@@ -8,6 +6,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
+![preview img](https://github.com/AdiiAnand/Web-Development-Projects/assets/35601079/2acdfe38-592d-464c-9ed6-9a94d0a540c9)
+
