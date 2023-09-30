@@ -1,4 +1,6 @@
-# Login form
+# Login Form
+
+### Login form
 
 - Login Form Using HTML & CSS
 - Contains a beautiful background image.
@@ -7,5 +9,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](https://github.com/AdiiAnand/Web-Development-Projects/assets/35601079/2acdfe38-592d-464c-9ed6-9a94d0a540c9)
-
+![preview img](/preview.png)
